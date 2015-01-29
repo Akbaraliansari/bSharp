@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
+@property(nonatomic,retain) NSString *userName;
 @end
 
